@@ -8,6 +8,7 @@ body {
   background-color: #fff;
   background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), 
                     url("/img/bg-image.png");
+  background-repeat: no-repeat;
 }
 .card-wrapper {
   max-width: 1000px;
