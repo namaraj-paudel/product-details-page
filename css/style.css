@@ -6,21 +6,15 @@
 body {
   line-height: 1.5;
   background-color: #fff;
-  background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)), 
-                    url("/img/bg-image.png");
-  background-repeat: no-repeat;
 }
 .card-wrapper {
   max-width: 1000px;
   background-color: #fff;
   margin: auto;
-  height: auto;
-  justify-content: center;
   position: relative;
   margin-top: 50px;
   display: flex;
   box-shadow: 5px 5px 10px rgb(105, 103, 103), -5px -5px 10px rgb(105, 103, 103);
-  position: relative;
 }
 
 .card-left {
